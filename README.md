@@ -1,13 +1,13 @@
 ## A curated collection of Unreal Engine learning resources semi-compiled by an utility I made.
-### The tool can be found here in case you are interested. [ULinkToMarkup](https://github.com/kaiyumcg/ULinkToMarkup)
-### Last generation date(Sorted by Date): 6/11/2022 3:01:14 PM
-### Note: Only related to mainstream game development. XR/AEC/Visual production etc are not considered(for now).
+##### The tool can be found here in case you are interested. [ULinkToMarkup](https://github.com/kaiyumcg/ULinkToMarkup)
+##### Last generation date(Sorted by Date): 6/11/2022 4:57:00 PM
+##### Note: Only related to mainstream game development. XR/AEC/Visual production etc are not considered(for now).
 
-### Lastest link: [Puppeteering: Recording Animations in UE5 | Feature Highlight | State of Unreal 2022](https://www.youtube.com/watch?v=r1fHOS4XaeE)
-### Latest UE video upload time: May 13, 2022
+##### Lastest link: [Puppeteering: Recording Animations in UE5 | Feature Highlight | State of Unreal 2022](https://www.youtube.com/watch?v=r1fHOS4XaeE)
+##### Latest UE video upload time: May 13, 2022
 
 
-###### Intro to the Editor
+#### Intro to the Editor
 1. [Intro to the Editor: View Modes & Show Flags | 04 | v4.7 Tutorial Series | Unreal Engine[7M38S][April 2015]](https://www.youtube.com/watch?v=7UjP6gr44dc)
 2. [Intro to the Editor: Orthographic Views | 03 | v4.7 Tutorial Series | Unreal Engine[5M32S][April 2015]](https://www.youtube.com/watch?v=RoiQOwCg-4Q)
 3. [Intro to the Editor: Viewport Navigation | 02 | v4.7 Tutorial Series | Unreal Engine[8M37S][April 2015]](https://www.youtube.com/watch?v=j2CKS6G3G2k)
@@ -20,7 +20,7 @@
 10. [Intro to the Editor: Placing Objects in your Level | 05 | v4.7 Tutorial Series | Unreal Engine[6M][April 2015]](https://www.youtube.com/watch?v=01BL2bWeJSA)
 
 
-###### Programming
+#### Programming
 1. [Writing in Unreal: How to Create Better Scripts | Unreal Engine[6M12S][October 2021]](https://www.youtube.com/watch?v=ynl5-HLmcCU)
 2. [Modular Game Features in UE5: plug ‘n play, the Unreal way[25M43S][September 2021]](https://www.youtube.com/watch?v=3PBnqC7TxvM)
 3. [Modular Game Features | Inside Unreal[1H36M41S][July 2021]](https://www.youtube.com/watch?v=7F28p564kuY)
@@ -36,7 +36,7 @@
 13. [Introduction to Programming | Live Training | Unreal Engine[21M35S][March 2014]](https://www.youtube.com/watch?v=Q3AvZmZEPyc)
 
 
-###### Blueprint
+#### Blueprint
 1. [Blueprint For Artists | Unreal Engine[30M49S][January 2022]](https://www.youtube.com/watch?v=c6Hc_RBA7ww)
 2. [Using Blueprints to Enhance Your Unreal Engine Scenes | Webinar[1H8M42S][December 2021]](https://www.youtube.com/watch?v=UO-z6snZLV8)
 3. [C++ for Blueprinters | Unreal Engine[28M14S][December 2021]](https://www.youtube.com/watch?v=6485d5Zoc_k)
@@ -71,7 +71,7 @@
 32. [Blueprint Essentials | v4.2 | Unreal Engine[Playlist][14][May 2014]](https://www.youtube.com/playlist?list=PLZlv_N0_O1ga2b_ZaJoaR5dLHOFw4-MMl)
 
 
-###### Blueprint->Intro to Blueprint
+#### Blueprint->Intro to Blueprint
 1. [Intro to Blueprints: Blueprint Introduction | 01 | v4.8 Tutorial Series | Unreal Engine[8M16S][August 2015]](https://www.youtube.com/watch?v=EFXMW_UEDco)
 2. [Intro to Blueprints: Turning on a Light via the Level BP | 02 | v4.8 Tutorial Series | Unreal Engine[22M46S][August 2015]](https://www.youtube.com/watch?v=_zoyaVdqHQ8)
 3. [Intro to Blueprints: Toggling a Light with the Level BP | 03 | v4.8 Tutorial Series | Unreal Engine[18M29S][August 2015]](https://www.youtube.com/watch?v=gHdwOiR0D0A)
@@ -83,7 +83,7 @@
 9. [Intro to Blueprints: Level Editor Component Workflow | 09 | v4.8 Tutorial Series | Unreal Engine[18M54S][August 2015]](https://www.youtube.com/watch?v=mHfiAOlZZRQ)
 
 
-###### C++
+#### C++
 1. [Developing a C++ Gameplay Framework with Tom Looman | Inside Unreal[2H32M17S][February 2022]](https://www.youtube.com/watch?v=YKhcN8NkIYY)
 2. [C++ Q&A | Live Training | Unreal Engine[1H30M53S][June 2017]](https://www.youtube.com/watch?v=STsqvPOTr_o)
 3. [Getting Started with C++ | Live Training | Unreal Engine[1H21M3S][April 2017]](https://www.youtube.com/watch?v=2ToUvURP4tE)
@@ -99,13 +99,13 @@
 13. [C++ 3rd Person Battery Collector Power Up Game | v4.9 | Unreal Engine[Playlist][21][September 2015]](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYup-gvJtMsgJqnEB_dGiM4)
 
 
-###### Gameplay Framework
+#### Gameplay Framework
 1. [A Guided Tour of Gameplay Abilities | Inside Unreal[3H21M28S][January 2021]](https://www.youtube.com/watch?v=YvXvWa6vbAA)
 2. [Benefits and Pitfalls of Using Gameplay Abilities Framework | Unreal Fest Online 2020[30M41S][August 2020]](https://www.youtube.com/watch?v=Nr-7R6w_obc)
 3. [Action RPG: Gameplay Abilities System | Inside Unreal[1H28M24S][February 2019]](https://www.youtube.com/watch?v=QZk3tEpZxjU)
 
 
-###### Source Control and Collaboration
+#### Source Control and Collaboration
 1. [Navigating Large Codebases Instructors Guide with Marc Olano | Unreal Educator Livestream[1H39M39S][September 2020]](https://www.youtube.com/watch?v=YZdVfKJNLfk)
 2. [Dive into Source Control in Unreal Engine | Webinar[55M8S][May 2020]](https://www.youtube.com/watch?v=faYmvw_Pd-A)
 3. [Collaboration and Teamwork in Unreal Engine | Unreal Educator Livestream[1H46M51S][April 2020]](https://www.youtube.com/watch?v=ywu4l1RTFPU)
@@ -118,14 +118,14 @@
 10. [Working with Large Files on GitHub | GitHub 2015 Event Coverage | Unreal Engine[21M23S][November 2015]](https://www.youtube.com/watch?v=7Lnz7sutS_I)
 
 
-###### CD/CI and Test
+#### CD/CI and Test
 1. [CI/CD Infrastructure for Efficient Mobile Game Development | Unreal Fest Online 2020[20M20S][August 2020]](https://www.youtube.com/watch?v=2zkrhspvPls)
 2. [Harnessing the Unreal Engine Automation Framework for Performance Measurement | UFO 2020[30M17S][August 2020]](https://www.youtube.com/watch?v=0BWQRZ8QW5E)
 3. [A Deep Dive into a Cross-Platform Build Farm | Unreal Fest Online 2020[29M42S][August 2020]](https://www.youtube.com/watch?v=joPca0-fl00)
 4. [Automated Testing at Scale in Sea of Thieves | Unreal Fest Europe 2019 | Unreal Engine[40M25S][May 2019]](https://www.youtube.com/watch?v=KmaGxprTUfI)
 
 
-###### Physics
+#### Physics
 1. [Driving Around: Exploring Chaos Vehicles | Feature Highlight | State of Unreal 2022[24M][May 2022]](https://www.youtube.com/watch?v=Wc6lUXOhRO0)
 2. [Integrating an FEM Physics System into Unreal Engine | Unreal Fest Europe 2019 | Unreal Engine[34M34S][May 2019]](https://www.youtube.com/watch?v=IYClvszCCPA)
 3. [Physics Asset Editor Updates in 4.18 | Feature Highlight | Unreal Engine Livestream[1H33S][November 2017]](https://www.youtube.com/watch?v=1avvVfvK-nc)
@@ -133,7 +133,7 @@
 5. [Introduction to the Physics Assets Tool (PhAT) | v4.2 | Unreal Engine[Playlist][8][June 2014]](https://www.youtube.com/playlist?list=PLZlv_N0_O1gaHlJrP4F12Px7ceHw3PDq-)
 
 
-###### Physics->Vehicle
+#### Physics->Vehicle
 1. [Vehicles: Handling & Friction | 03 | v4.2 Tutorial Series | Unreal Engine[9M10S][June 2014]](https://www.youtube.com/watch?v=6vFZ9alQKqI)
 2. [Vehicles: Shocks & Moment of Inertia | 04 | v4.2 Tutorial Series | Unreal Engine[6M57S][June 2014]](https://www.youtube.com/watch?v=dffa5u44nGw)
 3. [Vehicles: Top Speed & Acceleration | 02 | v4.2 Tutorial Series | Unreal Engine[7M3S][June 2014]](https://www.youtube.com/watch?v=2NforiLmU24)
@@ -141,7 +141,7 @@
 5. [Vehicles in 4.2 | Feature Highlight | Unreal Engine[1H22M58S][May 2014]](https://www.youtube.com/watch?v=e_kJ5T1KurQ)
 
 
-###### Destruction
+#### Destruction
 1. [Get to Know Destruction Effects in Unreal Engine | Get to Know[4M25S][June 2020]](https://www.youtube.com/watch?v=wZN2ZTzaDU4)
 2. [Causing Chaos: Physics and Destruction in UE4 | SIGGRAPH 2019 | Unreal Engine[45M13S][August 2019]](https://www.youtube.com/watch?v=y2QIpPTv6yU)
 3. [Chaos Fundamentals | Live from HQ | Inside Unreal[1H51M43S][August 2019]](https://www.youtube.com/watch?v=hx9dHgcN0bE)
@@ -153,7 +153,7 @@
 9. [Destructible Editor Features & Guide | Live Training | Unreal Engine[1H34M19S][March 2017]](https://www.youtube.com/watch?v=QyuvmZvsLdU)
 
 
-###### Animation:
+#### Animation:
 1. [Puppeteering: Recording Animations in UE5 | Feature Highlight | State of Unreal 2022[49M43S][May 2022]](https://www.youtube.com/watch?v=r1fHOS4XaeE)
 2. [Learning Motion Capture with Faceware | Inside Unreal[2H23M8S][March 2022]](https://www.youtube.com/watch?v=DXIAlFavLEg)
 3. [Animation Workflows Using Unreal Engine and Maya | Webinar[1H2M16S][November 2021]](https://www.youtube.com/watch?v=Ddu7TAICAXw)
@@ -206,7 +206,7 @@
 50. [Runtime Animation Retargeting | Live Training | Unreal Engine[1H5M9S][July 2015]](https://www.youtube.com/watch?v=vZW8mxlQJEk)
 
 
-###### Animation->Skeleton Assets
+#### Animation->Skeleton Assets
 1. [Skeleton Assets: Overview | 01 | v4.8 Tutorial Series | Unreal Engine[15M55S][September 2015]](https://www.youtube.com/watch?v=FDbpHamn2eY)
 2. [Skeleton Assets: Using Anim Notifies, Curves & Slots | 05 | v4.8 Tutorial Series | Unreal Engine[17M19S][September 2015]](https://www.youtube.com/watch?v=per6KmuvRlQ)
 3. [Skeleton Assets: Importing, Sharing Skeletons & Anims | 02 | v4.8 Tutorial Series | Unreal Engine[24M48S][September 2015]](https://www.youtube.com/watch?v=JkcJ5bjGPsg)
@@ -214,7 +214,7 @@
 5. [Skeleton Assets: Anim Retargeting  Different Skeletons | 03 | v4.8 Tutorial Series | Unreal Engine[11M6S][September 2015]](https://www.youtube.com/watch?v=xy9aLbZLdeA)
 
 
-###### Sequencer
+#### Sequencer
 1. [Animation in Sequencer in 4.26 | Feature Highlight | Unreal Engine[2M48S][December 2020]](https://www.youtube.com/watch?v=Af_6TKJlehQ)
 2. [A Video Guide to Unreal Engine’s Sequencer | Get to Know[4M12S][June 2020]](https://www.youtube.com/watch?v=D3trMpkxAFk)
 3. [UE4 Cinematics With Sequencer[Playlist][12][August 2019]](https://www.youtube.com/playlist?list=PLdh88bpMSAhLvnh3YGE4zpy47G8xvY078)
@@ -228,7 +228,7 @@
 11. [Working with Sequencer | Live Training | Unreal Engine[59M33S][April 2016]](https://www.youtube.com/watch?v=CGo-sK-wvzw)
 
 
-###### AI
+#### AI
 1. [Unreal Engine AI with Behavior Trees | Unreal Engine[26M38S][November 2020]](https://www.youtube.com/watch?v=iY1jnFvHgbE)
 2. [Unreal Engine AI with Behavior Trees | Unreal Engine[26M38S][November 2020]](https://www.youtube.com/watch?v=iY1jnFvHgbE)
 3. [Make It Fast: Simultaneous AI Actions in Gears Tactics | Unreal Fest Online 2020[27M52S][August 2020]](https://www.youtube.com/watch?v=rzR-vetCLYA)
@@ -256,7 +256,7 @@
 25. [Basics of AI | Live Training | Unreal Engine[1H15M42S][April 2015]](https://www.youtube.com/watch?v=evYE7tfWXUY)
 
 
-###### Audio:
+#### Audio:
 1. [MetaSounds in UE5: From Miniguns to Music | Unreal Engine[28M54S][August 2021]](https://www.youtube.com/watch?v=3230-FwCts0)
 2. [MetaSounds and Quartz | Inside Unreal[3H4M58S][July 2021]](https://www.youtube.com/watch?v=lj05ZgxRTA0)
 3. [Becoming a AAA Audio Designer | Unreal Educator Livestream[2H17M23S][October 2020]](https://www.youtube.com/watch?v=p8zhbTigv5o)
@@ -268,7 +268,7 @@
 9. [The Future of Audio in Unreal Engine | GDC 2017 | Unreal Engine[1H9M48S][March 2017]](https://www.youtube.com/watch?v=ErejaBCicds)
 
 
-###### Rendering and Shaders
+#### Rendering and Shaders
 1. [Managing the Texture Streaming Pool | Tips & Tricks | Unreal Engine[13M56S][March 2022]](https://www.youtube.com/watch?v=uk3W8Zhahdg)
 2. [Combining Decals Efficiently | Tips & Tricks | Unreal Engine[4M][November 2021]](https://www.youtube.com/watch?v=jXT5R7l3UTQ)
 3. [Enhanced Motion Blur with Movie Render Queue | Tips & Tricks | Unreal Engine[5M16S][October 2021]](https://www.youtube.com/watch?v=ZuI3BdlUgfw)
@@ -330,12 +330,12 @@
 59. [Rendering Best Practices | Live Training | Unreal Engine[56M19S][June 2015]](https://www.youtube.com/watch?v=-csRxRj_zcw)
 
 
-###### Nanite
+#### Nanite
 1. [Nanite in UE5: The End of Polycounts? | Unreal Engine[28M44S][August 2021]](https://www.youtube.com/watch?v=xUUSsXswyZM)
 2. [Nanite | Inside Unreal[2H36M47S][June 2021]](https://www.youtube.com/watch?v=TMorJX3Nj6U)
 
 
-###### Material
+#### Material
 1. [Materials - Tinted Glass Part 1 | Tips & Tricks | Unreal Engine[4M23S][September 2019]](https://www.youtube.com/watch?v=JYk1Qdfo3p4)
 2. [Materials - Tinted Glass Part 2 | Tips & Tricks | Unreal Engine[3M35S][September 2019]](https://www.youtube.com/watch?v=XRwFh6s5wqE)
 3. [Digital Material with the Substance Tools | Unreal Fest Europe 2019 | Unreal Engine[53M7S][May 2019]](https://www.youtube.com/watch?v=ukRt9iRQUOY)
@@ -351,7 +351,7 @@
 13. [Introduction to Materials | v4.0 | Unreal Engine[Playlist][10][March 2014]](https://www.youtube.com/playlist?list=PLZlv_N0_O1gbQjgY0nDwZNYe_N8IcYWS-)
 
 
-###### Lighting
+#### Lighting
 1. [Cinematic Lighting for MetaHumans | Inside Unreal[1H51M56S][January 2022]](https://www.youtube.com/watch?v=aDwDdw_Ne3E)
 2. [Enhanced GPU Lightmass | Feature Highlight | Unreal Engine 4.27[1M17S][September 2021]](https://www.youtube.com/watch?v=tLhcS1pAROg)
 3. [Lumen in UE5: Let there be light! | Unreal Engine[21M26S][August 2021]](https://www.youtube.com/watch?v=Dc1PPYl2uxA)
@@ -370,7 +370,7 @@
 16. [Lighting Techniques & Guides | Live Training | Unreal Engine[1H17M41S][January 2017]](https://www.youtube.com/watch?v=jCsrWzt9F28)
 
 
-###### Raytracing
+#### Raytracing
 1. [Capturing the Reality of Space with Ray Tracing in Deliver Us The Moon | Unreal Fest Online 2020[37M13S][August 2020]](https://www.youtube.com/watch?v=iMK570dXT44)
 2. [How to Get Started With Real-Time Ray Tracing | Get to Know[5M28S][June 2020]](https://www.youtube.com/watch?v=Bk5HOtRwgd8)
 3. [Optimizing for ray-traced scenes | Build: Munich ’19 for Automotive | Unreal Engine[6M14S][February 2020]](https://www.youtube.com/watch?v=jyQY_MU_IEc)
@@ -386,22 +386,22 @@
 13. [Ray Tracing in Unreal Engine 4.22 | GDC 2019 | Unreal Engine[50M10S][March 2019]](https://www.youtube.com/watch?v=gYf33FSxK2s)
 
 
-###### Technical Art
+#### Technical Art
 1. [Becoming a AAA Technical Artist | Unreal Educator Livestream[2H4M42S][September 2020]](https://www.youtube.com/watch?v=-ClY3NigKa8)
 2. [Tech Art with Chris Murphy | Live from HQ | Inside Unreal[2H4M23S][October 2019]](https://www.youtube.com/watch?v=nqatEfc5w5I)
 3. [Understanding Technical Art | 2018 EDU Summit | Unreal Engine[15M3S][April 2018]](https://www.youtube.com/watch?v=cSCIgbiZaY8)
 
 
-###### Texturing
+#### Texturing
 1. [Paragon Character Texturing Pipeline | Unreal Dev Day Montreal 2017 | Unreal Engine[48M21S][October 2017]](https://www.youtube.com/watch?v=nVes6OUyzdw)
 
 
-###### Post Processing
+#### Post Processing
 1. [Getting to Know Cinematic Depth of Field  Live Training | Unreal Engine Livestream[1H3M42S][October 2018]](https://www.youtube.com/watch?v=TBhm0pAwv2c)
 2. [Filmic Tonemapper | Feature Highlight | Unreal Engine[1H28M8S][March 2017]](https://www.youtube.com/watch?v=A-wectYNfRQ)
 
 
-###### Particle and Effects
+#### Particle and Effects
 1. [Creating Fluid Simulation in UE5 | Inside Unreal[1H59M11S][April 2022]](https://www.youtube.com/watch?v=k7WLE2kM4po)
 2. [Unreal Engine 4.27 In-Camera VFX Tutorials | 5: Lens Calibration[31M36S][January 2022]](https://www.youtube.com/watch?v=a-bkK5apunc)
 3. [Unreal Engine 4.27 In-Camera VFX Tutorials | 1: Introduction[1M31S][November 2021]](https://www.youtube.com/watch?v=ebf1rRkYFmU)
@@ -432,7 +432,7 @@
 28. [Introduction to Cascade | v4.2 | Unreal Engine[Playlist][11][July 2014]](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYDLyB3LVfjYIcbBe8NqR8t)
 
 
-###### Niagra
+#### Niagra
 1. [Simulating Large Crowds In Niagara | Unreal Engine[34M7S][January 2021]](https://www.youtube.com/watch?v=CqXKSyAPWZY)
 2. [Advanced Niagara Effects | Inside Unreal[1H36M42S][November 2020]](https://www.youtube.com/watch?v=31GXFW-MgQk)
 3. [Diving Into Niagara: Intelligent Particle Effects | Unreal Fest Online 2020[29M45S][August 2020]](https://www.youtube.com/watch?v=oX6uiPWXJDY)
@@ -449,7 +449,7 @@
 14. [Programmable VFX with Unreal Engine's Niagara | GDC 2018 | Unreal Engine[56M2S][March 2018]](https://www.youtube.com/watch?v=mNPYdfRVPtM)
 
 
-###### Intro to Level Creation
+#### Intro to Level Creation
 1. [Intro to Level Creation: Adding Props & Lighting | 11 | v4.7 Tutorial Series | Unreal Engine[10M][April 2015]](https://www.youtube.com/watch?v=mkchwELEXqk)
 2. [Intro to Level Creation: Applying Materials to Geometry | 04 | v4.7 Tutorial Series | Unreal Engine[5M28S][April 2015]](https://www.youtube.com/watch?v=v5yCcP9EnT8)
 3. [Intro to Level Creation: Blueprint Doorway cont | 10 | v4.7 Tutorial Series | Unreal Engine[6M49S][April 2015]](https://www.youtube.com/watch?v=HJbHs_oNQsk)
@@ -463,7 +463,7 @@
 11. [Intro to Level Creation: Adding Support Meshes | 05 | v4.7 Tutorial Series | Unreal Engine[8M30S][April 2015]](https://www.youtube.com/watch?v=dSckAxhy_4I)
 
 
-###### Landscape and Environment
+#### Landscape and Environment
 1. [Building Worlds with Landmass | Unreal Engine[28M15S][January 2021]](https://www.youtube.com/watch?v=GwJiN8LLnQI)
 2. [Building Next Gen Natural Environments in Unreal Engine | Unreal Educator Livestream[2H6M18S][November 2020]](https://www.youtube.com/watch?v=shmMFfBh7FY)
 3. [Becoming a AAA Environment Artist  | Unreal Educator Livestream[2H44M24S][August 2020]](https://www.youtube.com/watch?v=3yD_yhmcH5A)
@@ -475,7 +475,7 @@
 9. [Getting Started with Landscapes | Live Training | Unreal Engine[1H40M4S][January 2017]](https://www.youtube.com/watch?v=gMKjIZMPJ0Q)
 
 
-###### Level Design Related
+#### Level Design Related
 1. [Large worlds in UE5: A whole new (open) world | Unreal Engine[29M32S][September 2021]](https://www.youtube.com/watch?v=ZxJ5DG8Ytog)
 2. [New World Building Features | Inside Unreal[1H58M32S][June 2021]](https://www.youtube.com/watch?v=RJfqytepZ0c)
 3. [Making Massive Medieval Maps with Chivalry 2 | Inside Unreal[2H22M51S][April 2021]](https://www.youtube.com/watch?v=hE-lA5W4hNo)
@@ -483,14 +483,14 @@
 5. [Getting Started with World Composition | Live Training | Unreal Engine[1H15M21S][May 2017]](https://www.youtube.com/watch?v=FrcNClb6KUI)
 
 
-###### Level Loading Related
+#### Level Loading Related
 1. [ChunkDownloader Explained | Inside Unreal[1H58M30S][February 2021]](https://www.youtube.com/watch?v=h3A8qVb2VFk)
 2. [Async Loading Screens and Transition Levels | Unreal Fest Europe 2019 | Unreal Engine[31M9S][May 2019]](https://www.youtube.com/watch?v=ON1_dEHoNDg)
 3. [Getting Started with Level Streaming | Live Training | Unreal Engine[1H1M50S][April 2017]](https://www.youtube.com/watch?v=GkDg9GPpzXE)
 4. [Get a Load of This: How to make a Loading Screen | Live Training | Unreal Engine[40M51S][July 2016]](https://www.youtube.com/watch?v=6CkR6KG2znM)
 
 
-###### Workflow and Development
+#### Workflow and Development
 1. [Exploring Geometry Tools in UE5 | Inside Unreal[2H20M56S][April 2022]](https://www.youtube.com/watch?v=apCSgAAkDTU)
 2. [Developing in UE5 | Inside Unreal[2H12M36S][April 2022]](https://www.youtube.com/watch?v=5jb5ZMul94Q)
 3. [Blockout and Asset Production in UE5 | Feature Highlight | State of Unreal 2022[34M8S][April 2022]](https://www.youtube.com/watch?v=R5TsbnW4fk8)
@@ -529,7 +529,7 @@
 36. [Design Workflow in UE4 | Feature Highlight | Unreal Engine[31M11S][July 2014]](https://www.youtube.com/watch?v=Bnqfzymxnrk)
 
 
-###### Performance Optimization
+#### Performance Optimization
 1. [Optimizing Game Performance with Intel® GPA | Inside Unreal[1H53M46S][September 2021]](https://www.youtube.com/watch?v=KuF4OTH9WjA)
 2. [Performance Optimization for Environments | Inside Unreal[2H34M49S][October 2020]](https://www.youtube.com/watch?v=ZRaeiVAM4LI)
 3. [Optimizing and Building UI for AAA Games | Unreal Fest Online 2020[23M52S][August 2020]](https://www.youtube.com/watch?v=OyY3OYbNK7s)
@@ -547,13 +547,13 @@
 15. [From 0 to 60 FPS in 60 Minutes for Mobile | GitHub 2015 Event Coverage | Unreal Engine[1H1M48S][November 2015]](https://www.youtube.com/watch?v=Rtzi4SRbDTc)
 
 
-###### 2D
+#### 2D
 1. [Getting Started with Paper 2D | Community Led Training | Unreal Engine Livestream[1H50S][November 2017]](https://www.youtube.com/watch?v=Tf9Qd4isHTM)
 2. [Blueprint Creating a 2D Side-Scroller | 04 | Live Training | Unreal Engine[1H2M59S][April 2016]](https://www.youtube.com/watch?v=axuwbkDWI5U)
 3. [Introduction to Paper2D | v4.4 | Unreal Engine[Playlist][9][September 2014]](https://www.youtube.com/playlist?list=PLZlv_N0_O1gauJh60307mE_67jqK42twB)
 
 
-###### UMG
+#### UMG
 1. [Sun Position Driven by UI | Tips & Tricks | Unreal Engine[8M38S][August 2019]](https://www.youtube.com/watch?v=_Sdm_gsbaos)
 2. [Scaleform to UMG with Six Foot Games | Live Training | Unreal Engine Livestream[1H5M49S][October 2018]](https://www.youtube.com/watch?v=xAtS5iUK4NI)
 3. [Gamepad Support for UMG | Community Led Training | Unreal Engine[44M58S][September 2017]](https://www.youtube.com/watch?v=2JbFZI1Zdc4)
@@ -566,13 +566,13 @@
 10. [Drag & Drop with UMG | 02 | Live Training | Unreal Engine[1H25M39S][July 2015]](https://www.youtube.com/watch?v=hgyJWHZTKfI)
 
 
-###### General UI/UX
+#### General UI/UX
 1. [Unreal Engine 5's New UX | Inside Unreal[1H17M25S][October 2021]](https://www.youtube.com/watch?v=3KdU0BMVcLA)
 2. [Becoming a UX Researcher | Unreal Educator Livestream[1H33M26S][February 2021]](https://www.youtube.com/watch?v=Y1yGbAUv4bg)
 3. [Becoming a UX/UI Artist/Designer/Developer | Unreal Educator Livestream[2H10M15S][February 2021]](https://www.youtube.com/watch?v=mM-p7Xutvtk)
 
 
-###### Mobile Specific
+#### Mobile Specific
 1. [Technical Animation Challenges on Mobile Titles | Unreal Fest Online 2020[23M25S][August 2020]](https://www.youtube.com/watch?v=n7KUOJOjIbs)
 2. [Vulkan! Powering AAA Experiences on Android | Unreal Fest Europe 2019 | Unreal Engine[43M5S][May 2019]](https://www.youtube.com/watch?v=piDcBkUY7aQ)
 3. [UE4 for Mobile | Live Training | Unreal Engine Livestream[1H2M37S][October 2018]](https://www.youtube.com/watch?v=ZGEMqhzUXr8)
@@ -581,7 +581,7 @@
 6. [4.9 Mobile Features & Foliage Improvements | Feature Highlight | Unreal Engine[1H20M43S][August 2015]](https://www.youtube.com/watch?v=mHVvJevQeOg)
 
 
-###### Networking
+#### Networking
 1. [Network Multiplayer Fundamentals | Live from HQ | Inside Unreal[1H59M45S][February 2020]](https://www.youtube.com/watch?v=09yWANtKmC8)
 2. [Networking in UE4: Server Optimizations | Live Training | Unreal Engine[1H17M30S][January 2019]](https://www.youtube.com/watch?v=mT8VUVuk-CY)
 3. [Networking in 4.20: The Replication Graph | Feature Highlight | Unreal Engine Livestream[1H18M37S][August 2018]](https://www.youtube.com/watch?v=CDnNAAzgltw)
@@ -590,7 +590,7 @@
 6. [Networking Framework: Tips & Tricks | Feature Highlight | Unreal Engine[1H25M24S][November 2014]](https://www.youtube.com/watch?v=4LV7KKtzKs8)
 
 
-###### Procedural
+#### Procedural
 1. [Procedural Tools with Houdini | Inside Unreal[1H28M39S][April 2021]](https://www.youtube.com/watch?v=gCt4oLEQ2LU)
 2. [Getting Started With Procedural Mesh Generation | Inside Unreal[1H24M34S][November 2020]](https://www.youtube.com/watch?v=1ksgB6hYGrE)
 3. [Houdini Workflows with Unreal Engine | Inside Unreal[1H30M44S][April 2020]](https://www.youtube.com/watch?v=LHFN8ccf_8o)
@@ -599,7 +599,7 @@
 6. [Procedural Mesh Slicing | Live Training | Unreal Engine[1H49M13S][September 2016]](https://www.youtube.com/watch?v=1zJM1gKoU14)
 
 
-###### Blender And UE
+#### Blender And UE
 1. [How to Use Blender with Unreal Engine | Unreal Fest Online 2020[20M5S][August 2020]](https://www.youtube.com/watch?v=ppROgA3nQWk)
 2. [How to Use Blender with Unreal Engine | Unreal Fest Online 2020[20M5S][August 2020]](https://www.youtube.com/watch?v=ppROgA3nQWk)
 3. [Blender Tools - Send to Unreal | Unreal Engine[Playlist][7][July 2020]](https://www.youtube.com/playlist?list=PLZlv_N0_O1gZfQaN9qXynWllL7bzX8H3t)
@@ -622,7 +622,7 @@
 20. [Blender & UE4 | 01 | Live Training | Unreal Engine[1H5M4S][January 2015]](https://www.youtube.com/watch?v=Ayp1lof0RJU)
 
 
-###### Project Basis
+#### Project Basis
 1. [Lyra Walkthrough Q&A | Inside Unreal[2H1M36S][May 2022]](https://www.youtube.com/watch?v=m80NJzUWq8A)
 2. [Lyra Starter Game Overview | Tech Talk | State of Unreal 2022[1H2M15S][April 2022]](https://www.youtube.com/watch?v=Fj1zCsYydD8)
 3. [Lyra Cross-platform UI Development | Tech Talk | State of Unreal 2022[44M43S][April 2022]](https://www.youtube.com/watch?v=u06GAVxyIag)
@@ -641,17 +641,17 @@
 16. [Unreal Match 3 Postmortem | Feature Highlight | Unreal Engine[1H2M41S][March 2016]](https://www.youtube.com/watch?v=BJug-jCGPKU)
 
 
-###### Composition
+#### Composition
 1. [Using Composure with a Backplate and HDRI | Tips & Tricks | Unreal Engine[10M15S][July 2021]](https://www.youtube.com/watch?v=8pmGQITOgkY)
 2. [Getting Started with Composure | Live Training | Unreal Engine[1H1M45S][August 2017]](https://www.youtube.com/watch?v=VIKBHiOIEK0)
 
 
-###### Live Service Crap
+#### Live Service Crap
 1. [Architecting Content for a Live Service Game | Unreal Fest Europe 2019 | Unreal Engine[33M39S][May 2019]](https://www.youtube.com/watch?v=uAg1SETGhEU)
 2. [Backend Solution for The Cycle | Unreal Fest Europe 2019 | Unreal Engine[37M46S][May 2019]](https://www.youtube.com/watch?v=q9Za2e6hfYE)
 
 
-###### Digital Character Development
+#### Digital Character Development
 1. [Customizing MetaHuman Textures | Unreal Engine[22M25S][March 2022]](https://www.youtube.com/watch?v=vjhzMfxxb18)
 2. [MetaHuman Creator | Inside Unreal[1H34M29S][April 2021]](https://www.youtube.com/watch?v=ys3JivS-iXU)
 3. [MetaHuman Performance and Scalability Settings | Unreal Engine[14M39S][March 2021]](https://www.youtube.com/watch?v=bPMEASc1rbo)
@@ -661,34 +661,34 @@
 7. [Next-Gen Digital Human Performance by Andy Serkis | Project Spotlight | Unreal Engine[1M25S][March 2018]](https://www.youtube.com/watch?v=mkkWCmljMSA)
 
 
-###### Phyton
+#### Phyton
 1. [Understanding and Teaching Python for Unreal Engine | Unreal Educator Livestream[2H3M54S][October 2020]](https://www.youtube.com/watch?v=D-mDLwNawVU)
 2. [Python in Unreal Engine | Inside Unreal[1H43M56S][May 2019]](https://www.youtube.com/watch?v=0guOMTiwmhk)
 
 
-###### Localization
+#### Localization
 1. [Localizing Action RPG Game | Inside Unreal[1H21M9S][March 2020]](https://www.youtube.com/watch?v=UD2_TEgxkqs)
 
 
-###### Variant
+#### Variant
 1. [Understanding the Variant Manager for Game and Enterprise Workflows | Unreal Educator Livestream[1H58M13S][November 2020]](https://www.youtube.com/watch?v=cULucr6WLJw)
 2. [Variant Management - Part 1 | Tips & Tricks | Unreal Engine[6M][August 2019]](https://www.youtube.com/watch?v=VHQdS3QnMow)
 3. [Variant Management - Part 2 | Tips & Tricks | Unreal Engine[10M1S][August 2019]](https://www.youtube.com/watch?v=BfgLsPcb0hs)
 
 
-###### Spline
+#### Spline
 1. [Populating Meshes Along a Spline | Tips & Tricks | Unreal Engine[11M49S][September 2021]](https://www.youtube.com/watch?v=OdjvlvGRYRE)
 2. [Spline Importing | Live Training | Unreal Engine[46M][January 2017]](https://www.youtube.com/watch?v=N0CeLsI-sr8)
 3. [Using Splines & Spline Components | Live Training | Unreal Engine[1H32M52S][December 2014]](https://www.youtube.com/watch?v=wR0fH6O9jD8)
 
 
-###### State of UE
+#### State of UE
 1. [Unreal Engine 5 Release | The State of Unreal 2022 Keynote Presentation[37M41S][April 2022]](https://www.youtube.com/watch?v=7ZLibi6s_ew)
 2. [State of Unreal | GDC 2019 | Unreal Engine[1H4M11S][March 2019]](https://www.youtube.com/watch?v=s55Uob494Do)
 3. [The State of Unreal Engine | GitHub 2015 Event Coverage | Unreal Engine[53M55S][November 2015]](https://www.youtube.com/watch?v=kpv1AOQB4r0)
 
 
-###### Other
+#### Other
 1. [Large Numbers of Entities with Mass in UE5  | Feature Highlight | State of Unreal 2022[29M32S][April 2022]](https://www.youtube.com/watch?v=f9q8A-9DvPo)
 2. [2021 Year in Review | Inside Unreal[1H18M15S][December 2021]](https://www.youtube.com/watch?v=yUuRZ8BJqbg)
 3. [MegaAssemblies | Inside Unreal[1H32M13S][July 2021]](https://www.youtube.com/watch?v=bN-zwmWuNvY)
