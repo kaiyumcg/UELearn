@@ -54,33 +54,21 @@
 15. [Building Better Blueprints | Live Training | Unreal Engine Livestream[1H15M52S][October 2018]](https://www.youtube.com/watch?v=WA8ihra87cM)
 16. [Creating an Amazing Product Configurator Using Blueprints | Webinar | Unreal Engine[42M4S][August 2018]](https://www.youtube.com/watch?v=OwDF19laceg)
 17. [Teaching Programming with Blueprints | 2018 EDU Summit | Unreal Engine[19M11S][April 2018]](https://www.youtube.com/watch?v=UAF1cx1Nrok)
-18. [Building a Music System in Blueprints | Live Training | Unreal Engine Livestream[1H24M39S][April 2018]](https://www.youtube.com/watch?v=yce2t85MJD8)
-19. [Building High-End Gameplay Effects with Blueprint[26M39S][March 2018]](https://www.youtube.com/watch?v=67z5u8ZcEcw)
-20. [Blueprint Nativization | Feature Highlight | Unreal Engine[46M4S][April 2017]](https://www.youtube.com/watch?v=Ut_CRt7o8PA)
-21. [Blueprint Line & Shape Traces | Live Training | Unreal Engine[1H34M11S][December 2016]](https://www.youtube.com/watch?v=2LP5shWCnhc)
-22. [Blueprint Implementing Local Multiplayer | Live Training | Unreal Engine[1H35M59S][November 2016]](https://www.youtube.com/watch?v=ZOc9fV6Sap4)
-23. [Blueprint Multiplayer | v4.11 | Unreal Engine[Playlist][24][July 2016]](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ)
-24. [Blueprint Communications | Live Training | Unreal Engine[2H22M6S][February 2016]](https://www.youtube.com/watch?v=EM_HYqQdToE)
-25. [Blueprint Creating a 2D Side-Scroller | 03 | Live Training | Unreal Engine[1H19M59S][January 2016]](https://www.youtube.com/watch?v=XJLJzqcrcOE)
-26. [Blueprint Creating Interactions in VR with Motion Controllers | 01 | Live Training | Unreal Engine[59M50S][November 2015]](https://www.youtube.com/watch?v=eRNtgFo6iU0)
-27. [Blueprint Game Framework Basics | Live Training | Unreal Engine[1H5M9S][November 2015]](https://www.youtube.com/watch?v=0LG4hiisflg)
-28. [Blueprint Time Attack Racer | v4.8 | Unreal Engine[Playlist][15][July 2015]](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYdhCvvMKGpCF6LCgBz9XeS)
-29. [Blueprint Optimization | Live Training | Unreal Engine[1H1M17S][May 2015]](https://www.youtube.com/watch?v=RwbkvUEgCls)
-30. [Blueprint Generating Procedural Rooms | Live Training | Unreal Engine[1H20M27S][January 2015]](https://www.youtube.com/watch?v=mI7eYXMJ5eI)
-31. [Blueprint Quickshot | v4.7 | Unreal Engine[Playlist][12][July 2014]](https://www.youtube.com/playlist?list=PLZlv_N0_O1gZg3dTMetmsfm_s4lb4-Tg0)
-32. [Blueprint Essentials | v4.2 | Unreal Engine[Playlist][14][May 2014]](https://www.youtube.com/playlist?list=PLZlv_N0_O1ga2b_ZaJoaR5dLHOFw4-MMl)
-
-
-#### Blueprint->Intro to Blueprint
-1. [Intro to Blueprints: Blueprint Introduction | 01 | v4.8 Tutorial Series | Unreal Engine[8M16S][August 2015]](https://www.youtube.com/watch?v=EFXMW_UEDco)
-2. [Intro to Blueprints: Turning on a Light via the Level BP | 02 | v4.8 Tutorial Series | Unreal Engine[22M46S][August 2015]](https://www.youtube.com/watch?v=_zoyaVdqHQ8)
-3. [Intro to Blueprints: Toggling a Light with the Level BP | 03 | v4.8 Tutorial Series | Unreal Engine[18M29S][August 2015]](https://www.youtube.com/watch?v=gHdwOiR0D0A)
-4. [Intro to Blueprints: Creating a Class BP | 04 | v4.8 Tutorial Series | Unreal Engine[15M29S][August 2015]](https://www.youtube.com/watch?v=D4wJ_YO8ZWM)
-5. [Intro to Blueprints: Adding Components to a Class BP | 05 | v4.8 Tutorial Series | Unreal Engine[19M46S][August 2015]](https://www.youtube.com/watch?v=5YooEu-ktww)
-6. [Intro to Blueprints: Adding Functionality to a Class BP | 06 | v4.8 Tutorial Series | Unreal Engine[14M24S][August 2015]](https://www.youtube.com/watch?v=9nMnQE-Zg-o)
-7. [Intro to Blueprints: Using Inputs to Control a Class BP | 07 | v4.8 Tutorial Series | Unreal Engine[20M10S][August 2015]](https://www.youtube.com/watch?v=EmvekeKk-0o)
-8. [Intro to Blueprints: Construction Script Customization | 08 | v4.8 Tutorial Series | Unreal Engine[15M56S][August 2015]](https://www.youtube.com/watch?v=z1SD-d9yJmQ)
-9. [Intro to Blueprints: Level Editor Component Workflow | 09 | v4.8 Tutorial Series | Unreal Engine[18M54S][August 2015]](https://www.youtube.com/watch?v=mHfiAOlZZRQ)
+18. [Building High-End Gameplay Effects with Blueprint[26M39S][March 2018]](https://www.youtube.com/watch?v=67z5u8ZcEcw)
+19. [Blueprint Nativization | Feature Highlight | Unreal Engine[46M4S][April 2017]](https://www.youtube.com/watch?v=Ut_CRt7o8PA)
+20. [Blueprint Implementing Local Multiplayer | Live Training | Unreal Engine[1H35M59S][November 2016]](https://www.youtube.com/watch?v=ZOc9fV6Sap4)
+21. [Blueprint Multiplayer | v4.11 | Unreal Engine[Playlist][24][July 2016]](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ)
+22. [Blueprint Communications | Live Training | Unreal Engine[2H22M6S][February 2016]](https://www.youtube.com/watch?v=EM_HYqQdToE)
+23. [Blueprint Creating a 2D Side-Scroller | 03 | Live Training | Unreal Engine[1H19M59S][January 2016]](https://www.youtube.com/watch?v=XJLJzqcrcOE)
+24. [Blueprint Creating Interactions in VR with Motion Controllers | 01 | Live Training | Unreal Engine[59M50S][November 2015]](https://www.youtube.com/watch?v=eRNtgFo6iU0)
+25. [Blueprint Game Framework Basics | Live Training | Unreal Engine[1H5M9S][November 2015]](https://www.youtube.com/watch?v=0LG4hiisflg)
+26. [Blueprint Time Attack Racer | v4.8 | Unreal Engine[Playlist][15][July 2015]](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYdhCvvMKGpCF6LCgBz9XeS)
+27. [Blueprint Optimization | Live Training | Unreal Engine[1H1M17S][May 2015]](https://www.youtube.com/watch?v=RwbkvUEgCls)
+28. [Blueprint Generating Procedural Rooms | Live Training | Unreal Engine[1H20M27S][January 2015]](https://www.youtube.com/watch?v=mI7eYXMJ5eI)
+29. [Blueprint Quickshot | v4.7 | Unreal Engine[Playlist][12][July 2014]](https://www.youtube.com/playlist?list=PLZlv_N0_O1gZg3dTMetmsfm_s4lb4-Tg0)
+30. [Blueprint Essentials | v4.2 | Unreal Engine[Playlist][14][May 2014]](https://www.youtube.com/playlist?list=PLZlv_N0_O1ga2b_ZaJoaR5dLHOFw4-MMl)
+31. Intro to Blueprints[Playlist][8][August 2015]](https://www.youtube.com/playlist?list=PL9KfHZARfY8Z7RVgTubrw5-xWOA8dvGic)
+32. Intro to Blueprints[Playlist][9][August 2015]](https://www.youtube.com/playlist?list=PLjP7GdaJBM7GIJSjelGybVbm-S1VErg5y)
 
 
 #### C++
@@ -130,7 +118,9 @@
 2. [Integrating an FEM Physics System into Unreal Engine | Unreal Fest Europe 2019 | Unreal Engine[34M34S][May 2019]](https://www.youtube.com/watch?v=IYClvszCCPA)
 3. [Physics Asset Editor Updates in 4.18 | Feature Highlight | Unreal Engine Livestream[1H33S][November 2017]](https://www.youtube.com/watch?v=1avvVfvK-nc)
 4. [Cable Component & 4.14 Features | Live Training | Unreal Engine[53M25S][December 2016]](https://www.youtube.com/watch?v=HNlYg2qY7cI)
-5. [Introduction to the Physics Assets Tool (PhAT) | v4.2 | Unreal Engine[Playlist][8][June 2014]](https://www.youtube.com/playlist?list=PLZlv_N0_O1gaHlJrP4F12Px7ceHw3PDq-)
+5. [Blueprint Line & Shape Traces | Live Training | Unreal Engine[1H34M11S][December 2016]](https://www.youtube.com/watch?v=2LP5shWCnhc)
+6. [Introduction to the Physics Assets Tool (PhAT) | v4.2 | Unreal Engine[Playlist][8][June 2014]](https://www.youtube.com/playlist?list=PLZlv_N0_O1gaHlJrP4F12Px7ceHw3PDq-)
+
 
 
 #### Physics->Vehicle
@@ -266,6 +256,7 @@
 7. [Unreal Engine’s Audio Rendering: Retrospectives and Case Study Analysis | GDC 2019 | Unreal Engine[45M16S][March 2019]](https://www.youtube.com/watch?v=QwMAKXBTAC8)
 8. [Amplifying Your Game's Audio with FMOD | Community Led Training | Unreal Engine[55M1S][August 2017]](https://www.youtube.com/watch?v=1QdDwQONq_g)
 9. [The Future of Audio in Unreal Engine | GDC 2017 | Unreal Engine[1H9M48S][March 2017]](https://www.youtube.com/watch?v=ErejaBCicds)
+10. [Building a Music System in Blueprints | Live Training | Unreal Engine Livestream[1H24M39S][April 2018]](https://www.youtube.com/watch?v=yce2t85MJD8)
 
 
 #### Rendering and Shaders
