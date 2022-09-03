@@ -67,8 +67,8 @@
 28. [Blueprint Generating Procedural Rooms | Live Training | Unreal Engine[1H20M27S][January 2015]](https://www.youtube.com/watch?v=mI7eYXMJ5eI)
 29. [Blueprint Quickshot | v4.7 | Unreal Engine[Playlist][12][July 2014]](https://www.youtube.com/playlist?list=PLZlv_N0_O1gZg3dTMetmsfm_s4lb4-Tg0)
 30. [Blueprint Essentials | v4.2 | Unreal Engine[Playlist][14][May 2014]](https://www.youtube.com/playlist?list=PLZlv_N0_O1ga2b_ZaJoaR5dLHOFw4-MMl)
-31. Intro to Blueprints[Playlist][8][August 2015]](https://www.youtube.com/playlist?list=PL9KfHZARfY8Z7RVgTubrw5-xWOA8dvGic)
-32. Intro to Blueprints[Playlist][9][August 2015]](https://www.youtube.com/playlist?list=PLjP7GdaJBM7GIJSjelGybVbm-S1VErg5y)
+31. [Intro to Blueprints[Playlist][8][August 2015]](https://www.youtube.com/playlist?list=PL9KfHZARfY8Z7RVgTubrw5-xWOA8dvGic)
+32. [Intro to Blueprints[Playlist][9][August 2015]](https://www.youtube.com/playlist?list=PLjP7GdaJBM7GIJSjelGybVbm-S1VErg5y)
 
 
 #### C++
